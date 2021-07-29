@@ -1,0 +1,14 @@
+python
+numpy
+scikit-learn
+matplotlib
+seaborn
+tqdm
+ellc 1.*
+dynesty 0.9.*
+emcee 3.*
+celerite 0.3.*
+corner 2.0.*
+rebound 3.8.*
+wotan 1.*
+transitleastsquares 1.0.*
