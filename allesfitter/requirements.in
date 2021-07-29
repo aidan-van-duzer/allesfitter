@@ -1,9 +1,10 @@
-python
-numpy
-scikit-learn
-matplotlib
-seaborn
-tqdm
+# the star denotes latest version
+python 3.*
+numpy 1.*
+scikit-learn 0.*
+matplotlib 3.3.*
+seaborn 0.*
+tqdm 4.*
 ellc 1.*
 dynesty 0.9.*
 emcee 3.*
