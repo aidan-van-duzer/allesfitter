@@ -9,6 +9,9 @@ dependencies:
   - scikit-learn
   - seaborn
   - tqdm
+  - brew
+  - brew:
+    - gcc
   - pip
   - pip:
     - nbgitpuller
@@ -18,5 +21,6 @@ dependencies:
     - celerite
     - corner
     - rebound
+    - ellc
     - wotan
     - transitleastsquares
