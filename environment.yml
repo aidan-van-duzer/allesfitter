@@ -4,21 +4,20 @@ channels:
 dependencies:
   - python
   - numpy
-  - scikit-learn
   - matplotlib
+  - pandas
+  - scikit-learn
   - seaborn
   - tqdm
-  - ellc
-  - dynesty
-  - emcee
-  - celerite
-  - corner
-  - rebound
-  - wotan
-  - transitleastsquares
   - pip
   - pip:
     - nbgitpuller
     - sphinx-gallery
-    - pandas
-    - matplotlib
+    - ellc
+    - dynesty
+    - emcee
+    - celerite
+    - corner
+    - rebound
+    - wotan
+    - transitleastsquares
