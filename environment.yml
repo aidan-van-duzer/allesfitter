@@ -13,7 +13,6 @@ dependencies:
   - pip:
     - nbgitpuller
     - sphinx-gallery
-    - ellc
     - dynesty
     - emcee
     - celerite
